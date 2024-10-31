@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.caja{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    border-radius: 15px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.circulo{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.circulo2{   
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: yellow;
+    display: flex;
+    justify-content: start;
+    align-items: end;
+}
+.circulo3{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: yellow;
+    display: flex;
+    justify-content: start;
+    align-items: end;
+}
